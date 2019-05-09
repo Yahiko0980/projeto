@@ -1,0 +1,37 @@
+*{border: 0;}
+
+body{
+	font-family: arial;
+	text-align: justify;
+	font-size: 1.3em;
+	background-color: #BBDEFB;
+}
+
+header img{
+	width: 100%;
+	height: 400px;
+}
+
+nav{
+	font-size: 1.5em;
+	text-align: center;
+	margin: 50px 30px;
+	font-family: impact;
+	margin: 0;
+}
+a{
+	margin: 0 2%;
+	color: green;
+	text-decoration: none;
+}
+
+h1{
+	margin: 30 0px;
+	text-align: center;
+}
+h2{
+	margin: 30 0px;
+}
+p{
+	padding: 10px 30px;
+}
